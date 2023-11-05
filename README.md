@@ -48,7 +48,7 @@ Thus the implementation of the program for first come first serve disc schedulin
 
 # SHORTEST SEEK TIME FIRST
 ## AIM:
-To write a program for the first come first serve method of disc scheduling.
+To write a program for shortest seek time first method of disc scheduling.
 
 ## ALGORITHM:
 Shortest seek time first (SSTF) algorithm
@@ -190,7 +190,7 @@ Thus the implementation of the program for SCAN disc scheduling has been success
 # LOOK
 
 ## AIM:
-To write a program for the first come first serve method of disc scheduling.
+To write a program for the LOOK method of disc scheduling.
 
 ## ALOGORIRTHM:
 
